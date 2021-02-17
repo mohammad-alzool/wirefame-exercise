@@ -68,11 +68,14 @@
   
   main > article > section {
     box-sizing: border-box;
+    position:relative; left:20px; top:20px;
     padding-left: 30px;
+    float: right;
   }
   
   main > article > section > p {
     height: 300px;
+    float: right;
     overflow: auto;
   }
 
