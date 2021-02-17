@@ -63,7 +63,7 @@
   
   main > article > * {
     float: left;
-    width: 50;
+    width: 50%;
   }
   
   main > article > section {
@@ -75,7 +75,7 @@
     height: 300px;
     overflow: auto;
   }
-  
+
   footer {
     height: 100px;
     background-color: rgb(128, 123, 123);
